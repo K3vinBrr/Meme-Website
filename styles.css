@@ -1,0 +1,81 @@
+* {
+
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+    color: whitesmoke;
+    -webkit-text-stroke: 0.1px black; 
+
+}
+
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(164deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);  
+}
+
+h1 {
+
+    top: 10.1vw;
+    left: 45vw;
+    position:absolute;
+    color: black;
+    -webkit-text-stroke: 0.5px gold;
+    font-family: 'Tilt Warp', cursive;
+
+}
+
+h2 {
+
+    top: 27vw;
+    left: 42vw;
+    position:absolute;
+}
+
+.h22 {
+
+    top: 30vw;
+    left: 42vw;
+    position:absolute;
+
+}
+
+
+p {
+
+    top: 28.5vw;
+    left: 43vw;
+    position:absolute;
+}
+
+.p2 {
+
+    top: 31.5vw;
+    left: 43vw;
+    position:absolute;
+
+}
+
+
+.html {
+
+    height: 10%;
+    width: 15%;
+    margin: 0;
+    z-index: -1; 
+    top: 17.5vw;
+    left: 43.5vw;
+    position: absolute;
+
+}
+
+.card {
+
+    height: auto;
+    width: auto;
+    margin: 0;
+    z-index: -2; 
+    top: 10vw;
+    left: 40vw;
+    position: absolute;
+
+}
+
